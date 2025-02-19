@@ -1,0 +1,21 @@
+mode: set
+github.com/yevhenvolchenko/soltop/main.go:20.13,22.2 1 0
+github.com/yevhenvolchenko/soltop/cmd/root.go:45.16,47.16 2 0
+github.com/yevhenvolchenko/soltop/cmd/root.go:47.16,49.3 1 0
+github.com/yevhenvolchenko/soltop/cmd/root.go:52.13,64.2 3 0
+github.com/yevhenvolchenko/soltop/cmd/root.go:67.19,68.19 1 0
+github.com/yevhenvolchenko/soltop/cmd/root.go:68.19,71.3 1 0
+github.com/yevhenvolchenko/soltop/cmd/root.go:71.8,80.3 5 0
+github.com/yevhenvolchenko/soltop/cmd/root.go:82.2,85.45 2 0
+github.com/yevhenvolchenko/soltop/cmd/root.go:85.45,87.3 1 0
+github.com/yevhenvolchenko/soltop/cmd/validators.go:34.47,40.3 2 0
+github.com/yevhenvolchenko/soltop/cmd/validators.go:43.13,55.2 1 0
+github.com/yevhenvolchenko/soltop/src/solana/client.go:40.35,44.2 1 0
+github.com/yevhenvolchenko/soltop/src/solana/client.go:46.48,50.16 2 0
+github.com/yevhenvolchenko/soltop/src/solana/client.go:50.16,52.13 2 0
+github.com/yevhenvolchenko/soltop/src/solana/client.go:56.2,56.53 1 0
+github.com/yevhenvolchenko/soltop/src/solana/client.go:56.53,58.3 1 0
+github.com/yevhenvolchenko/soltop/src/solana/client.go:59.2,59.66 1 0
+github.com/yevhenvolchenko/soltop/src/solana/format.go:24.86,28.66 2 1
+github.com/yevhenvolchenko/soltop/src/solana/format.go:28.66,30.3 1 1
+github.com/yevhenvolchenko/soltop/src/solana/format.go:31.2,33.27 3 1
