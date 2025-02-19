@@ -2,6 +2,7 @@
 
 ## Install
 First download and install go 1.23.6 from [https://go.dev/dl/](https://go.dev/dl/)
+
 To install soltop simply run
 ```bash
   go install github.com/yevhenvolchenko/soltop@latest
